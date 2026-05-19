@@ -32,7 +32,7 @@ standard.
 
 ## Output:
 
-<img width="397" height="678" alt="image" src="https://github.com/user-attachments/assets/9c975783-e5df-421f-86a4-425ae6384193" />  
+<img width="375" height="688" alt="image" src="https://github.com/user-attachments/assets/3e3df01c-4b77-48c7-8889-8aa3367761fb" />
 
 ## Result:
 The heuristic evaluation was completed successfully, and key usability issues were identified across navigation, design, and user control. Clear UX improvements were proposed for enhancing overall usability. The study demonstrates how heuristic analysis effectively improves user experience.
